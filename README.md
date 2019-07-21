@@ -1,6 +1,6 @@
 # PREN - Team39
 
-![PrenexLogo](img/PrenexLogo.png)
+![PrenexLogo](img/PrenexLogo.png) 
 
 PREN Code von Team39 - 2018/2019.  
 Die Software ist Modular aufgebaut und in verschiedenen Folder gegliedert
@@ -21,15 +21,15 @@ Hier befindet sich der Gesamte, unstrukturierte, teilweise chaotische Code, mit 
 
 Hier befindet sich der produktive Code, welcher am Wettbewerb zum Einsatz kam, um den Zug autonom fahren zu lassen. 
 
-*ETArduino*   
+**ETArduino**  
 
 Der Code für den Arduino Mega ADK
 
-*maintrain_statemachine*
+**maintrain_statemachine**
 
 Der Hauptprogrammcode für den Raspberry Pi 3B+
 
-*speedcontroller*
+**speedcontroller**
 
 Eine kleine nützliche Applikationen um den Zug manuell zu steuern.
 
